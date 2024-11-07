@@ -1,1 +1,1 @@
-# QKD_GUI_pub
+# qkd_gui
